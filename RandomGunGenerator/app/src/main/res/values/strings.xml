@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Gun Generator</string>
+    <string name="gun_name">tap DRAW to start</string>
+    <string name="button_draw">DRAW</string>
+</resources>
